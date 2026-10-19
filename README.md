@@ -6,3 +6,5 @@ Harness: Pi (browser use extension added - and the model definitely used it)
 
 Model: https://huggingface.co/miabchdave/Qwen3.8-Flash-Next-oQ5e-mtp
 Grafted: Replaced quantum PLE (ngram) safe tensors with BF16 PLE from Qwen (not in HF model above, those layers are 102GB vs ~50GB default for quants).
+<img width="640" height="360" alt="Screenshot 2026-10-18 at 7 41 47 PM Medium" src="https://github.com/user-attachments/assets/688502a6-8234-43bd-ae09-5d30542aad27" />
+
