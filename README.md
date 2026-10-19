@@ -1,3 +1,5 @@
+**Test using a larger PLE (streamed from SSD/RAM) with existing Quants of Qwen Flash Next (qwenexp4)**
+
 New Cybertrain Benchmark for Qwen Flash Next ;-) from https://www.reddit.com/r/LocalLLaMA/comments/1x85hfj/comment/phavui9/?utm_source=share
 
 Prompt:  Build a beautiful 3D scene of a train driving through a futuristic cyberpunk city in HTML. dystopian vibes, detailed models, try not to use too many boxes in the models. Be creative and add some user interactivity like camera and weather controls.
